@@ -1,3 +1,7 @@
+This fork exists to allow this addon to be used by other addons. Pending the merging of these PRs:
+ - [Climb up the hierarchy of addons up to the host application](https://github.com/BrianSipple/ember-cli-svgstore/pull/20)
+ - [Allow broccoli trees to be overwritten in the case the addon is nested in more than one place](https://github.com/BrianSipple/ember-cli-svgstore/pull/21)
+
 # ember-cli-svgstore [![Build Status](https://travis-ci.org/salsify/ember-cli-svgstore.svg?branch=master)](https://travis-ci.org/salsify/ember-cli-svgstore)
 
 This Ember-CLI addon uses [broccoli-svgstore](https://github.com/jmarquis/broccoli-svgstore) to combine the contents
